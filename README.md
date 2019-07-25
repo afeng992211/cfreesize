@@ -1,3 +1,5 @@
+[toc]
+
 # cfreesize
 
 介绍
